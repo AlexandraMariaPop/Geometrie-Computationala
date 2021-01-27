@@ -1,0 +1,10 @@
+D:\Ale\faculta\Geometrie\Seminar 11\Seminar 11\bin\Debug\Seminar 11.exe.config
+D:\Ale\faculta\Geometrie\Seminar 11\Seminar 11\bin\Debug\Seminar 11.exe
+D:\Ale\faculta\Geometrie\Seminar 11\Seminar 11\bin\Debug\Seminar 11.pdb
+D:\Ale\faculta\Geometrie\Seminar 11\Seminar 11\obj\Debug\Seminar 11.csprojAssemblyReference.cache
+D:\Ale\faculta\Geometrie\Seminar 11\Seminar 11\obj\Debug\Seminar_11.Form1.resources
+D:\Ale\faculta\Geometrie\Seminar 11\Seminar 11\obj\Debug\Seminar_11.Properties.Resources.resources
+D:\Ale\faculta\Geometrie\Seminar 11\Seminar 11\obj\Debug\Seminar 11.csproj.GenerateResource.cache
+D:\Ale\faculta\Geometrie\Seminar 11\Seminar 11\obj\Debug\Seminar 11.exe
+D:\Ale\faculta\Geometrie\Seminar 11\Seminar 11\obj\Debug\Seminar 11.pdb
+D:\Ale\faculta\Geometrie\Seminar 11\Seminar 11\obj\Debug\Seminar 11.csproj.CoreCompileInputs.cache

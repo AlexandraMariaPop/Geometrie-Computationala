@@ -1,0 +1,7 @@
+D:\Ale\faculta\Geometrie\vecori-lab1\vecori-lab1\bin\Debug\vecori-lab1.exe.config
+D:\Ale\faculta\Geometrie\vecori-lab1\vecori-lab1\bin\Debug\vecori-lab1.exe
+D:\Ale\faculta\Geometrie\vecori-lab1\vecori-lab1\bin\Debug\vecori-lab1.pdb
+D:\Ale\faculta\Geometrie\vecori-lab1\vecori-lab1\obj\Debug\vecori-lab1.csprojAssemblyReference.cache
+D:\Ale\faculta\Geometrie\vecori-lab1\vecori-lab1\obj\Debug\vecori-lab1.exe
+D:\Ale\faculta\Geometrie\vecori-lab1\vecori-lab1\obj\Debug\vecori-lab1.pdb
+D:\Ale\faculta\Geometrie\vecori-lab1\vecori-lab1\obj\Debug\vecori-lab1.csproj.CoreCompileInputs.cache

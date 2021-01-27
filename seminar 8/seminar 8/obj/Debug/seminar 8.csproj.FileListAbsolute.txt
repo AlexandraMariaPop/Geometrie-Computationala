@@ -1,0 +1,10 @@
+D:\Ale\faculta\Geometrie\seminar 8\seminar 8\bin\Debug\seminar 8.exe.config
+D:\Ale\faculta\Geometrie\seminar 8\seminar 8\bin\Debug\seminar 8.exe
+D:\Ale\faculta\Geometrie\seminar 8\seminar 8\bin\Debug\seminar 8.pdb
+D:\Ale\faculta\Geometrie\seminar 8\seminar 8\obj\Debug\seminar 8.csprojAssemblyReference.cache
+D:\Ale\faculta\Geometrie\seminar 8\seminar 8\obj\Debug\seminar_8.Form1.resources
+D:\Ale\faculta\Geometrie\seminar 8\seminar 8\obj\Debug\seminar_8.Properties.Resources.resources
+D:\Ale\faculta\Geometrie\seminar 8\seminar 8\obj\Debug\seminar 8.csproj.GenerateResource.cache
+D:\Ale\faculta\Geometrie\seminar 8\seminar 8\obj\Debug\seminar 8.exe
+D:\Ale\faculta\Geometrie\seminar 8\seminar 8\obj\Debug\seminar 8.pdb
+D:\Ale\faculta\Geometrie\seminar 8\seminar 8\obj\Debug\seminar 8.csproj.CoreCompileInputs.cache
