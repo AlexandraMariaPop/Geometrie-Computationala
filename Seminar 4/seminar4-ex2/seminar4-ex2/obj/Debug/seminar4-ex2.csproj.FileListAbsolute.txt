@@ -1,0 +1,7 @@
+D:\Ale\faculta\Geometrie\Seminar 4\seminar4-ex2\seminar4-ex2\bin\Debug\seminar4-ex2.exe.config
+D:\Ale\faculta\Geometrie\Seminar 4\seminar4-ex2\seminar4-ex2\bin\Debug\seminar4-ex2.exe
+D:\Ale\faculta\Geometrie\Seminar 4\seminar4-ex2\seminar4-ex2\bin\Debug\seminar4-ex2.pdb
+D:\Ale\faculta\Geometrie\Seminar 4\seminar4-ex2\seminar4-ex2\obj\Debug\seminar4-ex2.csprojAssemblyReference.cache
+D:\Ale\faculta\Geometrie\Seminar 4\seminar4-ex2\seminar4-ex2\obj\Debug\seminar4-ex2.exe
+D:\Ale\faculta\Geometrie\Seminar 4\seminar4-ex2\seminar4-ex2\obj\Debug\seminar4-ex2.pdb
+D:\Ale\faculta\Geometrie\Seminar 4\seminar4-ex2\seminar4-ex2\obj\Debug\seminar4-ex2.csproj.CoreCompileInputs.cache
