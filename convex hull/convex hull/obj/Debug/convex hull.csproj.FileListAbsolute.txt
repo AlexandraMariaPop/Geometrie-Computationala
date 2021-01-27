@@ -1,0 +1,10 @@
+D:\Ale\faculta\Geometrie\convex hull\convex hull\bin\Debug\convex hull.exe.config
+D:\Ale\faculta\Geometrie\convex hull\convex hull\bin\Debug\convex hull.exe
+D:\Ale\faculta\Geometrie\convex hull\convex hull\bin\Debug\convex hull.pdb
+D:\Ale\faculta\Geometrie\convex hull\convex hull\obj\Debug\convex hull.csprojAssemblyReference.cache
+D:\Ale\faculta\Geometrie\convex hull\convex hull\obj\Debug\convex_hull.Form1.resources
+D:\Ale\faculta\Geometrie\convex hull\convex hull\obj\Debug\convex_hull.Properties.Resources.resources
+D:\Ale\faculta\Geometrie\convex hull\convex hull\obj\Debug\convex hull.csproj.GenerateResource.cache
+D:\Ale\faculta\Geometrie\convex hull\convex hull\obj\Debug\convex hull.exe
+D:\Ale\faculta\Geometrie\convex hull\convex hull\obj\Debug\convex hull.pdb
+D:\Ale\faculta\Geometrie\convex hull\convex hull\obj\Debug\convex hull.csproj.CoreCompileInputs.cache
