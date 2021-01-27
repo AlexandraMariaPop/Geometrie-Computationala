@@ -1,0 +1,10 @@
+D:\Ale\faculta\Geometrie\Seminar 9-Jarvis-Quick Hull\Seminar 9-Jarvis-Quick Hull\obj\Debug\Seminar 9-Jarvis-Quick Hull.csprojAssemblyReference.cache
+D:\Ale\faculta\Geometrie\Seminar 9-Jarvis-Quick Hull\Seminar 9-Jarvis-Quick Hull\obj\Debug\Seminar_9_Jarvis_Quick_Hull.Form1.resources
+D:\Ale\faculta\Geometrie\Seminar 9-Jarvis-Quick Hull\Seminar 9-Jarvis-Quick Hull\obj\Debug\Seminar_9_Jarvis_Quick_Hull.Properties.Resources.resources
+D:\Ale\faculta\Geometrie\Seminar 9-Jarvis-Quick Hull\Seminar 9-Jarvis-Quick Hull\obj\Debug\Seminar 9-Jarvis-Quick Hull.csproj.GenerateResource.cache
+D:\Ale\faculta\Geometrie\Seminar 9-Jarvis-Quick Hull\Seminar 9-Jarvis-Quick Hull\bin\Debug\Seminar 9-Jarvis-Quick Hull.exe.config
+D:\Ale\faculta\Geometrie\Seminar 9-Jarvis-Quick Hull\Seminar 9-Jarvis-Quick Hull\bin\Debug\Seminar 9-Jarvis-Quick Hull.exe
+D:\Ale\faculta\Geometrie\Seminar 9-Jarvis-Quick Hull\Seminar 9-Jarvis-Quick Hull\bin\Debug\Seminar 9-Jarvis-Quick Hull.pdb
+D:\Ale\faculta\Geometrie\Seminar 9-Jarvis-Quick Hull\Seminar 9-Jarvis-Quick Hull\obj\Debug\Seminar 9-Jarvis-Quick Hull.exe
+D:\Ale\faculta\Geometrie\Seminar 9-Jarvis-Quick Hull\Seminar 9-Jarvis-Quick Hull\obj\Debug\Seminar 9-Jarvis-Quick Hull.pdb
+D:\Ale\faculta\Geometrie\Seminar 9-Jarvis-Quick Hull\Seminar 9-Jarvis-Quick Hull\obj\Debug\Seminar 9-Jarvis-Quick Hull.csproj.CoreCompileInputs.cache
