@@ -1,0 +1,7 @@
+D:\Ale\faculta\Geometrie\lab1ex3\lab1ex3\bin\Debug\lab1ex3.exe.config
+D:\Ale\faculta\Geometrie\lab1ex3\lab1ex3\bin\Debug\lab1ex3.exe
+D:\Ale\faculta\Geometrie\lab1ex3\lab1ex3\bin\Debug\lab1ex3.pdb
+D:\Ale\faculta\Geometrie\lab1ex3\lab1ex3\obj\Debug\lab1ex3.exe
+D:\Ale\faculta\Geometrie\lab1ex3\lab1ex3\obj\Debug\lab1ex3.pdb
+D:\Ale\faculta\Geometrie\lab1ex3\lab1ex3\obj\Debug\lab1ex3.csprojAssemblyReference.cache
+D:\Ale\faculta\Geometrie\lab1ex3\lab1ex3\obj\Debug\lab1ex3.csproj.CoreCompileInputs.cache

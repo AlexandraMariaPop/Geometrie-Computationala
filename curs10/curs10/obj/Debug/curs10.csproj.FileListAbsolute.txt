@@ -1,0 +1,10 @@
+D:\Ale\faculta\Geometrie\curs10\curs10\bin\Debug\curs10.exe.config
+D:\Ale\faculta\Geometrie\curs10\curs10\bin\Debug\curs10.exe
+D:\Ale\faculta\Geometrie\curs10\curs10\bin\Debug\curs10.pdb
+D:\Ale\faculta\Geometrie\curs10\curs10\obj\Debug\curs10.csprojAssemblyReference.cache
+D:\Ale\faculta\Geometrie\curs10\curs10\obj\Debug\curs10.Form1.resources
+D:\Ale\faculta\Geometrie\curs10\curs10\obj\Debug\curs10.Properties.Resources.resources
+D:\Ale\faculta\Geometrie\curs10\curs10\obj\Debug\curs10.csproj.GenerateResource.cache
+D:\Ale\faculta\Geometrie\curs10\curs10\obj\Debug\curs10.exe
+D:\Ale\faculta\Geometrie\curs10\curs10\obj\Debug\curs10.pdb
+D:\Ale\faculta\Geometrie\curs10\curs10\obj\Debug\curs10.csproj.CoreCompileInputs.cache
