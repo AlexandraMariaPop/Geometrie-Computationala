@@ -1,0 +1,10 @@
+D:\Ale\faculta\Geometrie\Seminar 6\seminar6\seminar6\bin\Debug\seminar6.exe.config
+D:\Ale\faculta\Geometrie\Seminar 6\seminar6\seminar6\bin\Debug\seminar6.exe
+D:\Ale\faculta\Geometrie\Seminar 6\seminar6\seminar6\bin\Debug\seminar6.pdb
+D:\Ale\faculta\Geometrie\Seminar 6\seminar6\seminar6\obj\Debug\seminar6.csprojAssemblyReference.cache
+D:\Ale\faculta\Geometrie\Seminar 6\seminar6\seminar6\obj\Debug\seminar6.Form1.resources
+D:\Ale\faculta\Geometrie\Seminar 6\seminar6\seminar6\obj\Debug\seminar6.Properties.Resources.resources
+D:\Ale\faculta\Geometrie\Seminar 6\seminar6\seminar6\obj\Debug\seminar6.csproj.GenerateResource.cache
+D:\Ale\faculta\Geometrie\Seminar 6\seminar6\seminar6\obj\Debug\seminar6.exe
+D:\Ale\faculta\Geometrie\Seminar 6\seminar6\seminar6\obj\Debug\seminar6.pdb
+D:\Ale\faculta\Geometrie\Seminar 6\seminar6\seminar6\obj\Debug\seminar6.csproj.CoreCompileInputs.cache

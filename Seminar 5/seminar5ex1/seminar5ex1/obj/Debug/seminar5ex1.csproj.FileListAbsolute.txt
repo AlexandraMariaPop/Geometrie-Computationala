@@ -1,0 +1,10 @@
+D:\Ale\faculta\Geometrie\Seminar 5\seminar5ex1\seminar5ex1\bin\Debug\seminar5ex1.exe.config
+D:\Ale\faculta\Geometrie\Seminar 5\seminar5ex1\seminar5ex1\bin\Debug\seminar5ex1.exe
+D:\Ale\faculta\Geometrie\Seminar 5\seminar5ex1\seminar5ex1\bin\Debug\seminar5ex1.pdb
+D:\Ale\faculta\Geometrie\Seminar 5\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.csprojAssemblyReference.cache
+D:\Ale\faculta\Geometrie\Seminar 5\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.Form1.resources
+D:\Ale\faculta\Geometrie\Seminar 5\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.Properties.Resources.resources
+D:\Ale\faculta\Geometrie\Seminar 5\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.csproj.GenerateResource.cache
+D:\Ale\faculta\Geometrie\Seminar 5\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.exe
+D:\Ale\faculta\Geometrie\Seminar 5\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.pdb
+D:\Ale\faculta\Geometrie\Seminar 5\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.csproj.CoreCompileInputs.cache
