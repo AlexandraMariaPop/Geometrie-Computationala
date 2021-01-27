@@ -1,0 +1,9 @@
+D:\Ale\faculta\Geometrie\Seminar 7\Sem7\Sem7\bin\Debug\Sem7.exe.config
+D:\Ale\faculta\Geometrie\Seminar 7\Sem7\Sem7\bin\Debug\Sem7.exe
+D:\Ale\faculta\Geometrie\Seminar 7\Sem7\Sem7\bin\Debug\Sem7.pdb
+D:\Ale\faculta\Geometrie\Seminar 7\Sem7\Sem7\obj\Debug\Sem7.csprojAssemblyReference.cache
+D:\Ale\faculta\Geometrie\Seminar 7\Sem7\Sem7\obj\Debug\Sem7.Form1.resources
+D:\Ale\faculta\Geometrie\Seminar 7\Sem7\Sem7\obj\Debug\Sem7.Properties.Resources.resources
+D:\Ale\faculta\Geometrie\Seminar 7\Sem7\Sem7\obj\Debug\Sem7.csproj.GenerateResource.cache
+D:\Ale\faculta\Geometrie\Seminar 7\Sem7\Sem7\obj\Debug\Sem7.exe
+D:\Ale\faculta\Geometrie\Seminar 7\Sem7\Sem7\obj\Debug\Sem7.pdb
